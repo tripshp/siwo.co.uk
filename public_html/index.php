@@ -38,7 +38,7 @@ body {
 @keyframes lol {
   0% {
     opacity: 0;
-    transform: translateX(-600px);
+    transform: translateX(-900px);
   }
   33% {
     opacity: 1;
@@ -50,14 +50,14 @@ body {
   }
   100% {
     opacity: 0;
-    transform: translateX(600px);
+    transform: translateX(900px);
   }
 }
 
 @-webkit-keyframes lol {
   0% {
     opacity: 0;
-    -webkit-transform: translateX(-600px);
+    -webkit-transform: translateX(-900px);
   }
   33% {
     opacity: 1;
@@ -69,7 +69,7 @@ body {
   }
   100% {
     opacity: 0;
-    -webkit-transform: translateX(600px);
+    -webkit-transform: translateX(900px);
   }
 }
 
